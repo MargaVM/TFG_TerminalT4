@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 855f01b64678e49e48a3e827df19f29a
+timeCreated: 1516882139
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cilindro10
+    100002: cilindro11
+    100004: cilindro12
+    100006: cilindro9
+    100008: cilindroViga5
+    100010: cilindroViga6
+    100012: //RootNode
+    100014: moduloDefinitivoEsquina3
+    100016: pieCilindro7
+    100018: pieCilindro8
+    100020: polySurface10
+    100022: polySurface11
+    100024: polySurface12
+    100026: polySurface13
+    100028: polySurface14
+    100030: polySurface15
+    100032: polySurface16
+    100034: polySurface17
+    100036: polySurface18
+    100038: polySurface19
+    100040: polySurface2
+    100042: polySurface20
+    100044: polySurface21
+    100046: polySurface22
+    100048: polySurface23
+    100050: polySurface3
+    100052: polySurface32
+    100054: polySurface33
+    100056: polySurface34
+    100058: polySurface4
+    100060: polySurface5
+    100062: polySurface8
+    100064: polySurface9
+    100066: transform43
+    100068: transform44
+    100070: transform45
+    100072: transform46
+    100074: transform47
+    100076: transform48
+    100078: transform49
+    100080: transform50
+    100082: transform51
+    100084: transform52
+    100086: transform53
+    100088: transform57
+    100090: viga2
+    100092: viga5
+    400000: cilindro10
+    400002: cilindro11
+    400004: cilindro12
+    400006: cilindro9
+    400008: cilindroViga5
+    400010: cilindroViga6
+    400012: //RootNode
+    400014: moduloDefinitivoEsquina3
+    400016: pieCilindro7
+    400018: pieCilindro8
+    400020: polySurface10
+    400022: polySurface11
+    400024: polySurface12
+    400026: polySurface13
+    400028: polySurface14
+    400030: polySurface15
+    400032: polySurface16
+    400034: polySurface17
+    400036: polySurface18
+    400038: polySurface19
+    400040: polySurface2
+    400042: polySurface20
+    400044: polySurface21
+    400046: polySurface22
+    400048: polySurface23
+    400050: polySurface3
+    400052: polySurface32
+    400054: polySurface33
+    400056: polySurface34
+    400058: polySurface4
+    400060: polySurface5
+    400062: polySurface8
+    400064: polySurface9
+    400066: transform43
+    400068: transform44
+    400070: transform45
+    400072: transform46
+    400074: transform47
+    400076: transform48
+    400078: transform49
+    400080: transform50
+    400082: transform51
+    400084: transform52
+    400086: transform53
+    400088: transform57
+    400090: viga2
+    400092: viga5
+    2300000: cilindro10
+    2300002: cilindro11
+    2300004: cilindro12
+    2300006: cilindro9
+    2300008: pieCilindro7
+    2300010: pieCilindro8
+    2300012: polySurface11
+    2300014: polySurface13
+    2300016: polySurface14
+    2300018: polySurface16
+    2300020: polySurface17
+    2300022: polySurface19
+    2300024: polySurface2
+    2300026: polySurface20
+    2300028: polySurface22
+    2300030: polySurface23
+    2300032: polySurface3
+    2300034: polySurface32
+    2300036: polySurface33
+    2300038: polySurface34
+    2300040: polySurface4
+    2300042: polySurface9
+    3300000: cilindro10
+    3300002: cilindro11
+    3300004: cilindro12
+    3300006: cilindro9
+    3300008: pieCilindro7
+    3300010: pieCilindro8
+    3300012: polySurface11
+    3300014: polySurface13
+    3300016: polySurface14
+    3300018: polySurface16
+    3300020: polySurface17
+    3300022: polySurface19
+    3300024: polySurface2
+    3300026: polySurface20
+    3300028: polySurface22
+    3300030: polySurface23
+    3300032: polySurface3
+    3300034: polySurface32
+    3300036: polySurface33
+    3300038: polySurface34
+    3300040: polySurface4
+    3300042: polySurface9
+    4300000: polySurface32
+    4300002: polySurface33
+    4300004: polySurface34
+    4300006: polySurface22
+    4300008: polySurface23
+    4300010: polySurface19
+    4300012: polySurface20
+    4300014: polySurface16
+    4300016: polySurface17
+    4300018: polySurface13
+    4300020: polySurface14
+    4300022: polySurface11
+    4300024: polySurface9
+    4300026: cilindro9
+    4300028: pieCilindro7
+    4300030: pieCilindro8
+    4300032: cilindro10
+    4300034: cilindro11
+    4300036: cilindro12
+    4300038: polySurface2
+    4300040: polySurface3
+    4300042: polySurface4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
